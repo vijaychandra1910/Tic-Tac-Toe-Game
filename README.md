@@ -1,6 +1,7 @@
 
 
-![Tic Tac Toe Screenshot](screenshot.png)
+![Tic Tac Toe Screenshot](![Screenshot 2024-07-09 235449](https://github.com/vijaychandra1910/Tic-Tac-Toe-Game/assets/138502362/9e61df29-7dda-43ba-a118-a782f8c8bd3f)
+)
 
 ## Table of Contents
 
